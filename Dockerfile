@@ -1,4 +1,4 @@
-FROM microsoft/aspnet:1.0.0-beta4
+FROM ubuntu:14.04
 
 COPY . /app
 
