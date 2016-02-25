@@ -1,4 +1,4 @@
-# Deploy ASP.NET 5 Apps
+# Deploy ASP.NET 5 Applications
 ## To a Linux Virtual Machine with Docker on Azure
 
 1. Create a Linux Virtual Machine with Docker using Visual Studio 2015 Tools for Docker
